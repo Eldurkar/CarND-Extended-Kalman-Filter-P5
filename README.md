@@ -12,13 +12,15 @@ It involves the Term 2 Simulator which can be downloaded [here](https://github.c
   - `kalman_filter.cpp`- defines the predict function, the update function for lidar, and the update function for radar.
   - `tools.cpp` - a function to calculate RMSE and the Jacobian matrix.
 - `data`  a directory with two input files, provided by Udacity.
-- [task.md](task.md) the task of the project by Udacity
+- [Task.md](Task.md) the task of the project by Udacity
 
 ## Results
 Here are two screenshots showing the results after running the simulator for the two datasets.
 
 ![input 1 results](readme_images/dataset1_rmse.png)
 Dataset 1
+
+##
 
 ![input 2 results](readme_images/dataset2_rmse.png)
 Dataset 2
